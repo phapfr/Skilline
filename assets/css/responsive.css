@@ -8,6 +8,18 @@
     .header .navbar .menu .btn {
         display: none;
     }
+
+    .header .navbar {
+        padding: 10px;
+    }
+
+    .header .hero {
+        padding: 15px;
+    }
+
+    .company {
+        padding: 5px;
+    }
 }
 
 @media screen and (max-width: 725px) {
